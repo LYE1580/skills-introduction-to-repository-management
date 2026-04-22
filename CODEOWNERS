@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @LYE1580
+/src/backend/database.py      @LYE1580
+/src/backend/routers/auth.py  @LYE1580
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @LYE1580
